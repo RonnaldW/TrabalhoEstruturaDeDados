@@ -24,6 +24,20 @@ O projeto está organizado da seguinte forma:
 - **bd_paciente.csv**: Arquivo CSV que armazena os dados dos pacientes.
 - **Makefile**: Facilita a compilação do projeto.
 
+## Como executar o Projeto
+
+1. **Clonar o Repositório**
+    git clone https://github.com/RonnaldW/TrabalhoEstruturaDeDados.git
+
+2. **Navegar até a pasta**
+    cd TrabalhoEstruturaDeDados
+
+3. **Instalar o GCC 11**
+    "sudo apt install -y gcc-11" e  no terminal
+
+4. **Compilar o projeto**
+    Digitar "make" no terminal
+
 
 ## Decisões de Implementação
 
